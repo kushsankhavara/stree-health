@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/stree-health/static/css/main.e7d78826.css",
+    "main.js": "/stree-health/static/js/main.c8db6261.js",
+    "static/js/787.cda612ba.chunk.js": "/stree-health/static/js/787.cda612ba.chunk.js",
+    "static/media/drback.jpg": "/stree-health/static/media/drback.8c0fc655eaf6847d8990.jpg",
+    "static/media/dr.png": "/stree-health/static/media/dr.2db62ad24723924c06fd.png",
+    "index.html": "/stree-health/index.html",
+    "main.e7d78826.css.map": "/stree-health/static/css/main.e7d78826.css.map",
+    "main.c8db6261.js.map": "/stree-health/static/js/main.c8db6261.js.map",
+    "787.cda612ba.chunk.js.map": "/stree-health/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7d78826.css",
+    "static/js/main.c8db6261.js"
+  ]
+}
